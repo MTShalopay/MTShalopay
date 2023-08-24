@@ -32,7 +32,20 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, read tech articles.
   
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](Shalopay@bk.ru)
-
+### :man_technologist: My Stack:
+- ООП
+- UIKit, AutoLayout, Storyboard, Xib
+- iOS SDK
+- GitHub
+- CocoaPods
+- MVC, MVVM, MVP
+- Asynchronous development and multithreading
+- AVFoundation
+- URLSession, JSON, REST API
+- UserDefaults, Realm, CoreData
+- CoreLocation
+- Localization of the application
+- Local & Push notifications
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
